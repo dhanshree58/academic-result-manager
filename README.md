@@ -181,10 +181,10 @@ The PDF contains:
 
 | Page | Preview |
 |------|---------|
-| Student Dashboard | `screenshots/studentdashboard.png` |
-| Faculty Dashboard | `screenshots/facultydashboard.png` |
-| Admin Dashboard | `screenshots/admindashboard.png` |
-| Main Dashboard | `screenshots/maindashboard.png` |
+| Student Dashboard | `studentdashboard.png` |
+| Faculty Dashboard | `facultydashboard.png` |
+| Admin Dashboard | `admindashboard.png` |
+| Main Dashboard | `maindashboard.png` |
 
 
 ---
